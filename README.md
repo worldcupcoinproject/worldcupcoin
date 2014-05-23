@@ -1,3 +1,3 @@
-worldcupcoin 0.8.6.2 BETA
+WorldCupCoin 0.8.1 BETA
 =====================
 
